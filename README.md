@@ -1,2 +1,2 @@
 # PeerChat
- Peer to peer video call application.
+ Peer to peer video calling application.
